@@ -104,4 +104,5 @@ sbt run
 | 44   | 0.79     |
 | 88   | 1.09     |
 | 68   | 1.02     |
+
 [success] Total time: 15 s, completed May 26, 2024, 10:43:40 PM
